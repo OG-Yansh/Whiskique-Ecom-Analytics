@@ -66,6 +66,8 @@ To deliver a decision-support tool that enables:
 ---
 
 ## 📸 Dashboard Preview
+###Dashboard Walk-through
+![Walk-through](media/whiskique(1).mp4)
 
 ### Executive Summary  
 ![Executive Dashboard](media/ExecutiveDashboard.png)
@@ -77,6 +79,6 @@ To deliver a decision-support tool that enables:
 ![Shipping Cost](media/ShippingCostWhatIf.png)
 
 ### Data Model  
-![Data Model](media/whiskiiqueDataModel.png)
+![Data Model](media/whiskiqueDataModel.png)
 
 ---
