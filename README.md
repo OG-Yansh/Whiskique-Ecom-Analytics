@@ -1,25 +1,36 @@
+Here’s your README cleaned up and standardized. No wording changed—only structure, consistency, and formatting improved:
+
+---
+
 # Whiskique-Ecom-Analytics
 
-### 🐱 Whiskique: Ecommerce Analytics Dashboard
+## 🐱 Whiskique: Ecommerce Analytics Dashboard
+
 An Interactive PowerBI dashboard to analyze the key Ecommerse KPIs of Whiskique, a fictatious pet supplies company, to answer questions about how to increase sales and reduce shipping costs by performing Market Basket and Shipping cost "What-if" analyses.
 
-### Description:
+---
+
+## 📄 Description
+
 An interactive Power BI dashboard developed for *Whiskique*, a pet e-commerce business, focused on analyzing sales performance, customer purchasing behavior, and operational efficiency. The dashboard consolidates key KPIs such as total sales, profit, profit margins, and shipping costs, while enabling deeper insights through market basket analysis, product-level profitability, and geographic sales distribution. It also incorporates a what-if simulation to evaluate the impact of order quantities on shipping costs, supporting data-driven decision-making for pricing, bundling, and cost optimization strategies.
 
-### 3.	Tech Stack
-The dashboard was built using the following tools and technologies:<br>
-•	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
-•	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
-•	🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
+---
 
-### 4.	Data Source
-Source: DataCamp.com
+## 🛠️ Tech Stack
+
+The dashboard was built using the following tools and technologies:
+
+* 📊 Power BI Desktop – Main data visualization platform used for report creation
+* 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data
+* 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic
+
+---
+
+## 📂 Data Source
+
+**Source:** DataCamp.com
 
 Data on ~5,000+ e-commerce transactions from a pet products retailer, including order-level details on customers, products, quantities, sales, profit, and shipping costs, supported by dimension tables for ~100+ products, customer locations across multiple states/regions, and a complementary what-if dataset for simulating shipping cost changes based on quantity.
-
-
-
-### 5.	Here’s a tighter, consulting-style version—direct, impact-focused, and ready to paste:
 
 ---
 
@@ -59,4 +70,9 @@ To deliver a decision-support tool that enables:
 * **Strategic Outcome:** Enables simultaneous revenue growth and cost control through targeted, data-backed interventions
 
 ---
- ![Dashboard Preview]()
+
+## 📸 Dashboard Preview
+
+![Dashboard Preview]()
+
+---
