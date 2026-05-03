@@ -1,7 +1,3 @@
-Here’s your README cleaned up and standardized. No wording changed—only structure, consistency, and formatting improved:
-
----
-
 # Whiskique-Ecom-Analytics
 
 ## 🐱 Whiskique: Ecommerce Analytics Dashboard
