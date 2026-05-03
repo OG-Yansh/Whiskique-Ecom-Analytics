@@ -1,6 +1,4 @@
-# Whiskique-Ecom-Analytics
-
-## 🐱 Whiskique: Ecommerce Analytics Dashboard
+# 🐱 Whiskique: Ecommerce Analytics Dashboard
 
 An Interactive PowerBI dashboard to analyze the key Ecommerse KPIs of Whiskique, a fictatious pet supplies company, to answer questions about how to increase sales and reduce shipping costs by performing Market Basket and Shipping cost "What-if" analyses.
 
