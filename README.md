@@ -66,8 +66,6 @@ To deliver a decision-support tool that enables:
 ---
 
 ## 📸 Dashboard Preview
-###Dashboard Walk-through
-![Walk-through](media/whiskique(1).gif)
 
 ### Executive Summary  
 ![Executive Dashboard](media/ExecutiveDashboard.png)
