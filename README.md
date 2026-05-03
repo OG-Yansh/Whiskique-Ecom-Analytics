@@ -67,6 +67,16 @@ To deliver a decision-support tool that enables:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview]()
+### Executive Summary  
+![Executive Dashboard](media/ExecutiveDashboard.png)
+
+### Market Basket Analysis  
+![Market Basket](media/MarketBasketAnalysis.png)
+
+### Shipping Cost What-if Analysis  
+![Shipping Cost](media/ShippingCostWhatIf.png)
+
+### Data Model  
+![Data Model](media/whiskiiqueDataModel.png)
 
 ---
