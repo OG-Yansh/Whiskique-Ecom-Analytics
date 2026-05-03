@@ -81,4 +81,7 @@ To deliver a decision-support tool that enables:
 ### Data Model  
 ![Data Model](media/whiskiqueDataModel.png)
 
+###Dashboard Walk-through
+![Walk-through](media/whiskique(1).gif)
+
 ---
