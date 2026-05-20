@@ -48,7 +48,7 @@ To deliver a decision-support tool that enables:
 
 ### • Walkthrough of Key Visuals
 
-* **Executive Summary:** Snapshot of core KPIs — Sales (~$1.55M), Profit (~$427K), Margin (~27.5%), Shipping (~$385K)
+* **Executive Summary:** Snapshot of core KPIs — Sales $1.55M, Profit $427K, Margin 27.5%, Shipping $385K
 * **Product Performance:** Revenue and profit comparison across SKUs to identify high-impact products
 * **Category Profitability:** Margin analysis highlighting high-return segments
 * **Market Basket Analysis:** Frequently bought-together products to uncover bundling opportunities
